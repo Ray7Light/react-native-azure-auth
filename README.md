@@ -1,3 +1,6 @@
+# changes in this fork
+- Removed 'authorize' path segment when constructing an url for authorization.
+
 # react-native-azure-auth
 
 [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
