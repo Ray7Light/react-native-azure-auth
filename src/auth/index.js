@@ -70,7 +70,7 @@ export default class Auth {
             },
             validate: false // not declared params are allowed:
         }, parameters)
-        return this.client.url('authorize',
+        return this.client.url('',
             {...query,
                 client_id: this.clientId,
                 redirect_uri: this.redirectUri
